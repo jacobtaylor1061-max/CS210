@@ -2,7 +2,7 @@
 # Jacob Taylor
 
 # Summarize the project and what problem it was solving.
-- This project’s main goal was to write a program that would assist the intended user of Corner Grocer in finding the frequencies of grocery items from a provided list. This program would open and read the grocery list file. From here, the frequencies of each item could be read from different functions and then stored in an output file. There was also a histogram that would read the frequency of each item and then display the quantity to the user in “*” form. When the user ran the program, they were presented with a menu offering options tailored to their needs.
+- This project’s main goal was to write a program that would assist the intended user of Corner Grocer in finding the frequencies of grocery items from a provided list. This program would open and read the grocery list file. From here, the frequencies of each item could be read from different functions and then get stored in an output file. There was also a histogram that would read the frequency of each item and then display the quantity to the user in “*” form. When the user ran the program, they were presented with a menu offering options tailored to their needs.
  
 # What did you do particularly well?
 - Personally, I was relieved when the program finally read the input file correctly. Files were a particularly troublesome aspect of this course, and I found myself really struggling with the concept of reading files in general. It felt good to run my program and finally see each item’s frequency.
@@ -13,7 +13,7 @@
 
 # Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 
-- The input and output file functions caused me the most trouble during this code-writing process. I used the ZyBook readings and other discussion boards to help me write this section. 
+- The input and output file functions caused me the most trouble during this code-writing process. I used the ZyBook readings and other discussion boards to help me develop this section. Rereading and seeing how other programmers implement files into their code helped me overcome this slight hiccup.
 
 # What skills from this project will be particularly transferable to other projects or course work?
 
